@@ -6,10 +6,9 @@ import cucumber.api.java.en.When;
 
 public class MavenTest   {
 
-    @Given("find windows search")
-        public void find_windows_search(){
-        System.out.println("test");
-        }
+    @Given("^find window search$")
+    public void find_window_search()   {
+        System.out.println("test full");     }
 
     @When("input value")
     public void input_value(){

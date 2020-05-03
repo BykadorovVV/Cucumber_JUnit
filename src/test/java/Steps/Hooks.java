@@ -16,7 +16,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class Hooks {
 
-    public final static String URL = "google.ru";
+    public final static String URL = "https://www.ivi.ru/watch/185387";
     public static WebDriver driver;
     public static WebDriverWait wait;
     public static Actions actions;
