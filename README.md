@@ -1,3 +1,3 @@
 # Cucumber_JUnit
 
-Framework на основе Cucumber+JUnit. BDD подход
+Framework на основе Cucumber+JUnit+Selenium. BDD подход
